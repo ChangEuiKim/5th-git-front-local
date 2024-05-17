@@ -1,4 +1,4 @@
-name: '❌ Build error report'
+name: '❌ 빌드 에러 리포트'
 description: 'report errors when building by yourself'
 title: '[Build Error]'
 labels:
